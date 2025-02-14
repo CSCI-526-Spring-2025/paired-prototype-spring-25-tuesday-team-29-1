@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 0e9f3801b4c149949a811b3372476833
+  productGUID: 14b2917c75c51b54186c4ae0fd332760
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Team 29
+  productName: GP
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Team 29
+  metroPackageName: GP
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Team 29
+  metroApplicationDescription: GP
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -687,10 +687,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2991a9b2-55f7-4243-9f84-5deb3d04fa13
+  cloudProjectId: 373c186b-c15c-479d-90e3-fe3b8aba605d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Team 29 2025-02-11_14-13-52
+  projectName: GP 2025-02-13_22-39-38
   organizationId: ekko0612
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
