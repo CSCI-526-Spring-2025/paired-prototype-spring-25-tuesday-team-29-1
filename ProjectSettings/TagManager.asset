@@ -4,8 +4,13 @@
 TagManager:
   serializedVersion: 3
   tags:
+<<<<<<< HEAD
   - Collider_25
   - Battery_25
+=======
+  - Player1
+  - Battery
+>>>>>>> b9b37a6 (Maze with collectables, ui and player)
   layers:
   - Default
   - TransparentFX

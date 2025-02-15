@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8c9cfa26abfee488c85f1582747f6a02
+=======
+guid: c3c178a5e387f4c49962b2c2ca5e2e15
+>>>>>>> b9b37a6 (Maze with collectables, ui and player)
 DefaultImporter:
   externalObjects: {}
   userData: 
